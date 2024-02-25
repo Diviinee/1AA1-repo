@@ -1,5 +1,4 @@
-
-     <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -35,17 +34,7 @@
             </ul>
         </div>    
     </nav>
-    <div class="submenu">
-        <div id="subleft">
-            <p>Main Page</p>
-            <p><span class="highlight">Talk</span></p>
-        </div>
-        <div id="subright">
-            <p>Read</p>
-            <p><span class="highlight">View Source</span></p>
-            <p><span class="highlight">View History</span></p>
-            <p>Tools</p>
-        </div>
+   
     </div>
     <div class="main">
         <div class="header">
@@ -57,7 +46,7 @@
             <div class="leftmain">
                 <div class="inclass">
                     <h4>From today's featured article</h4>
-                    <img src="pic1.jpg" style="width:200px; height:200px;" hspace="15" vspace="15" align="left">     
+    
                     <p>The quarter sovereign is a British gold coin issued by the Royal Mint since 2009...</p>
                     <p>In 1853, the Royal Mint produced two patterns for a quarter sovereign for circulation...</p>
                     <p>In 2009, a quarter sovereign was introduced as an extension of this range...</p>
@@ -77,7 +66,7 @@
             <div class="leftmain">
                 <div class="inclass" style="background-color:#CEDFF2;">
                     <h4>In the news</h4>
-                    <img src="Mike_Sadler.jpg" style="width: 200px; height: 200px;" vspace="15" hspace="15" align="right">
+                    
                     <ul>
                         <li>At the British Academy Film Awards, Oppenheimer wins Best Film and six other awards, including Best Actor for Cillian Murphy (pictured).</li>
                         <li>Russian opposition leader Alexei Navalny dies in a corrective labor colony near Kharp, at the age of 47.</li>
