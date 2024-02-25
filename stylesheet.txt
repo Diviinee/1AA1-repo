@@ -1,3 +1,5 @@
+
+
 body {
     font-family: Arial, sans-serif;
 }
@@ -41,3 +43,82 @@ body {
 	background-color: darkblue;
 	color: #fff;
 }
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+#wrapper {
+    display: auto;
+   
+}
+nav {
+    background-color:white;
+    color: white;
+    padding: 10px 20px;
+}
+.menu-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+}
+.menu-icon {
+    width: 20px;
+    height: 3px;
+    background-color: white;
+    margin: 3px 0;
+}
+#wikitext {
+    margin-left: auto;
+}
+.search-container {
+    display: flex;
+    align-items: center;
+}
+.search-bar {
+    padding: 5px;
+    margin-right: 10px;
+}
+.search-button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+#rightcontent {
+    margin-left:auto;
+    align-items: left;
+}
+.highlight {
+    color: green;
+}
+
+.main {
+    display: flex;
+    padding: 20px;
+}
+.header {
+    flex: 1;
+    background-color: white;
+    padding: 20px;
+}
+.inclass {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+#division {
+    display: flex;
+}
+.leftmain {
+    flex: 1;
+    margin-right: 20px;
+}
+.leftmain img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 0 10px;
+}
+
